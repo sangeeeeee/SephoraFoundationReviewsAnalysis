@@ -1,5 +1,5 @@
 # Sephora Foundation Analysis Project
-## Group 27 Members: 
+## Group Members: 
     - Sangeetha Ramamurthy
     - Hiroka Tamura
     - Saba Mahdavi
